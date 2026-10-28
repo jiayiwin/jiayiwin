@@ -1,63 +1,65 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=jiayiwin&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Builder%20·%20Indie%20Hacker&descAlignY=58&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=jiayiwin&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20things%20that%20work%20%F0%9F%9B%A0%EF%B8%8F&descAlignY=60&descSize=20" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/jiayiwin">
-    <img src="https://komarev.com/ghpvc/?username=jiayiwin&style=flat-square&color=5b8eff&label=Profile+Views" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=jiayiwin&label=Profile+Views&color=5865F2&style=flat-square" alt="profile views"/>
   </a>
-  <a href="https://github.com/jiayiwin?tab=followers">
-    <img src="https://img.shields.io/github/followers/jiayiwin?style=flat-square&color=5b8eff&label=Followers" alt="Followers"/>
-  </a>
+  <img src="https://img.shields.io/github/followers/jiayiwin?label=Followers&style=flat-square&color=5865F2" alt="followers"/>
 </p>
 
 ---
 
-### 👋 Hi there
+### About
 
-独立开发者，专注于构建面向中国市场的效率工具。
+Full-stack developer focused on building practical products — WeChat mini-programs, backend APIs, and tools for small businesses.
 
-> *"少说废话，多写代码，让产品说话。"*
-
----
-
-### 🛠️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/WeChat_Mini_Program-07C160?style=for-the-badge&logo=wechat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Koa-33333D?style=for-the-badge&logo=koajs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+Currently working on **不鸽** — a booking assistant for independent service providers: no-show protection through deposit locks, subscribe-message reminders, and a shareable booking link that takes 5 minutes to set up.
 
 ---
 
-### 📦 Projects
+### Tech Stack
 
-| 项目 | 描述 | 状态 |
-|------|------|------|
-| [不鸽](https://github.com/jiayiwin/buge) | 自由职业者预约管理小程序——一个链接完成选时间、付定金、双方提醒 | 🚧 Building |
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Koa](https://img.shields.io/badge/Koa2-33333D?style=flat-square&logo=koa&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+
+**Frontend / Mini-Program**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![WeChat](https://img.shields.io/badge/WeChat_Mini--Program-07C160?style=flat-square&logo=wechat&logoColor=white)
+
+**Infra / Tooling**
+
+![Docker](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiayiwin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiayiwin&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jiayiwin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiayiwin&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="top langs"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jiayiwin&theme=tokyonight&hide_border=true&date_format=Y.n.j" />
+  <img src="https://streak-stats.demolab.com?user=jiayiwin&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" alt="streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jiayiwin&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
-</p>
+---
+
+### Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [不鸽](https://github.com/jiayiwin/buge) | Booking assistant for service providers — deposit lock, WeChat reminders, shareable link | Node.js · Koa2 · WeChat MP · MySQL |
 
 ---
 
